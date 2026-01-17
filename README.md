@@ -63,7 +63,7 @@ The goal of this project is to:
 
 | Without LoRA | With LoRA |
 |-------------|-----------|
-| ![](results/no_lora/sample.png) | ![](results/lora/sample.png) |
+| ![](outputs/compare_lora_no_lora/compare_baseline_megamendung_2.png) | ![](outputs/compare_lora_no_lora/compare_lora_megamendung_2.png) |
 
 ---
 
