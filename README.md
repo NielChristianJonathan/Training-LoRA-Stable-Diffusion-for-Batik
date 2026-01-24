@@ -11,26 +11,26 @@ The goal of this project is to:
 
 ## Experiments Overview
 
-### 1️⃣ Baseline (Without LoRA)
+### 1️. Baseline (Without LoRA)
 - Model: Stable Diffusion v1.5
 - Prompt-based generation
 - No fine-tuning
 
-### 2️⃣ LoRA Training
+### 2️. LoRA Training
 - Fine-tuned on Batik Megamendung dataset
 - Lightweight adaptation using LoRA
 - Base model weights frozen
 
-### 3️⃣ No LoRA vs LoRA Comparison
+### 3️. No LoRA vs LoRA Comparison
 - Same prompt
 - Same random seed
 - Visual comparison to show LoRA effectiveness
 
-### 4️⃣ LoRA Strength Comparison
+### 4️. LoRA Strength Comparison
 - LoRA scales tested: `0.5, 0.8, 1.0, 1.2`
 - Observes balance between generalization and overfitting
 
-### 5️⃣ Seed Variation Test
+### 5️. Seed Variation Test
 - Same prompt
 - Different random seeds
 - Evaluates diversity vs memorization
