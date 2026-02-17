@@ -17,8 +17,7 @@ To evaluate the pre-trained model's inherent knowledge of the "Batik Megamendung
 * **Conclusion:** The pre-trained Stable Diffusion v1.5 does not have sufficient internal representation of this specific Indonesian cultural heritage, justifying the need for fine-tuning via LoRA.
 
 
-Outputs:
+Prompts: "traditional batik megamendung"
 
-cukup pakai:
 ![Baseline](baseline_megamendung.png)
 
