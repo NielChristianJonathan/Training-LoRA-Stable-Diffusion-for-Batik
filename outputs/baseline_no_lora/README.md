@@ -19,8 +19,10 @@ To evaluate the pre-trained model's inherent knowledge of the "Batik Megamendung
 
 
 ### Prompts: "traditional batik megamendung"
-![Baseline](baseline_megamendung.png)
+![Baseline](baseline_traditional_batik_megamendung.png)
 
-### Prompts: "modern batik megamendung textile"
+### Prompts: "minimalist megamendung pattern"
 ![Baseline](baseline_minimalist_megamendung_pattern.png)
 
+### Prompts: "modern batik megamendung textile"
+![Baseline](baseline_modern_batik_megamendung_textile.png)
