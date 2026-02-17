@@ -20,7 +20,5 @@ To evaluate the pre-trained model's inherent knowledge of the "Batik Megamendung
 Outputs:
 
 cukup pakai:
-
-```md
 ![Baseline](baseline_megamendung.png)
 
