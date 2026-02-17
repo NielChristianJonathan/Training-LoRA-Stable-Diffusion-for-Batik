@@ -15,3 +15,7 @@ To evaluate the pre-trained model's inherent knowledge of the "Batik Megamendung
 * **Pattern Recognition Failure:** The base model fails to identify the specific "cloud-like" (Megamendung) geometry. 
 * **Generic Outputs:** Instead of the distinctive tiered cloud shapes, the model produces generic floral or abstract batik-style textures.
 * **Conclusion:** The pre-trained Stable Diffusion v1.5 does not have sufficient internal representation of this specific Indonesian cultural heritage, justifying the need for fine-tuning via LoRA.
+
+
+Outputs:
+![](outputs/compare_lora_no_lora/compare_baseline_megamendung_2.png)
