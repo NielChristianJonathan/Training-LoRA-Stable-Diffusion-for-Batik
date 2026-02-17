@@ -18,4 +18,9 @@ To evaluate the pre-trained model's inherent knowledge of the "Batik Megamendung
 
 
 Outputs:
-![](outputs/compare_lora_no_lora/compare_baseline_megamendung_2.png)
+
+cukup pakai:
+
+```md
+![Baseline](baseline_megamendung.png)
+
